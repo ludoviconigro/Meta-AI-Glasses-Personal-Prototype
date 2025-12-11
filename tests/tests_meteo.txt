@@ -1,0 +1,50 @@
+Che tempo fa adesso?
+Com'è il meteo oggi?
+Che tempo fa fuori?
+Mi dici il meteo attuale?
+Com’è la situazione meteo in questo momento?
+Che tempo fa a Milano?
+Come è il meteo a Roma adesso?
+Che tempo fa a Torino oggi?
+Meteo attuale a Napoli.
+Dimmi il meteo di Firenze ora.
+Che tempo farà domani?
+Com’è previsto il meteo per domani?
+Domani piove?
+Previsioni per domani.
+Com’è il tempo domani nella mia zona?
+Com'è il meteo domani a Milano?
+Previsioni meteo domani a Bologna.
+Che tempo farà domani a Palermo?
+Domani a Firenze piove?
+Meteo di domani a Torino.
+Che tempo farà fra 2 giorni?
+Mi dici il meteo tra 5 giorni?
+Previsioni meteo per tra tre giorni.
+Piove fra quattro giorni?
+Com’è il meteo previsto tra sette giorni?
+Che tempo farà a Milano fra 2 giorni?
+Previsioni per Firenze tra tre giorni.
+Meteo a Bologna fra cinque giorni.
+A Torino che tempo farà fra sette giorni?
+Piove a Napoli tra quattro giorni?
+Previsioni del tempo a Venezia oggi.
+Mi dai il clima attuale a Bari
+Quali sono le previsioni per domani a Cagliari?
+Com’è il clima tra 3 giorni a Milano?
+Situazione meteo Firenze adesso.
+Devo uscire: piove oggi a Roma?
+Serve l’ombrello domani a Milano?
+È previsto sole a Napoli oggi?
+Che temperature ci saranno tra due giorni a Torino?
+A Bologna farà freddo domani?
+Meteo milano
+Domani milano meteo
+Firenze tempo 3 giorni
+Roma meteo oggi
+Napoli domani pioggia?
+Com’è il tempo qui?
+Dammi il meteo vicino a me.
+Previsioni del tempo nella mia zona.
+Che tempo c'è qui oggi?
+È previsto bel tempo oggi qui vicino?

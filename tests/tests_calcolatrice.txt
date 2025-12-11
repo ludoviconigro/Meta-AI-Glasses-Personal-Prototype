@@ -1,0 +1,120 @@
+Quanto fa 25 + 17
+Quanto fa 90 - 37
+calcola 12 per 8
+144 diviso 12
+7 fratto 2
+3 più 5 per 2
+100 meno 30 più 5
+100 diviso 3
+999 meno 111
+3 volte 7
+2 elevato alla 10
+3 elevato a 4
+10 elevato alla terza
+5 elevato alla seconda
+2 alla quindicesima
+4 elevato a 0
+calcola 10 ^ 5
+tre elevato alla quarta
+due alla decima
+8 elevato a una
+Qual è la radice quadrata di 81
+radice quadrata 256
+radice di 49
+radice di ottantuno
+radice cubica di 27
+radice cubica 64
+la radice quadrata di trenta sei
+radice quadrata di cento
+radice cubica di mille
+radice diciannove
+seno di 30
+seno di trenta
+coseno di 60
+coseno di sessanta
+tangente di 45
+tangente di quarantacinque
+sin 90
+cos 0
+tan 45
+seno di centoottanta
+logaritmo di 1000
+log di 100
+log 1000
+log naturale di 5
+logaritmo naturale di venti
+ln 2
+ln 10
+log di mille
+log 0.1
+logaritmo cento
+calcola il 30% di 50
+venti percento di 200
+50 percento di 10
+10% di 400
+trenta percento di mille
+quindici percento di venti
+venti percento di duecento
+dieci percento di cento
+5 percento di 3000
+trenta percento di cinquanta
+converti 3 km in metri
+converti cinque chilometri in metri
+mille metri in chilometri
+3400 metri in km
+20 gradi celsius in fahrenheit
+100 gradi celsius in fahrenheit
+32 gradi fahrenheit in celsius
+converti 68 gradi fahrenheit in celsius
+converti 2 chilometri in metri
+converti 1200 metri in chilometri
+fattoriale di 5
+fattoriale di sei
+fattoriale di 10
+fact(6)
+calcola il fattoriale di quattro
+fattoriale 3
+factorial di 7
+fattoriale di 1
+fattoriale zero
+fattoriale dodici
+combinazioni di 5 su 2
+combinazioni di sei su tre
+comb 10 3
+quante combinazioni di quattro su due
+combinazioni 8 su 2
+comb di dieci su quattro
+combinazioni di tre su due
+comb 6 1
+combinazioni 12 su 5
+comb 20 2
+pi greco
+pi greco per 2
+quanto vale pi
+e
+velocità della luce
+due per velocità della luce
+costante di Planck
+costante gravitazionale
+g
+gravità terrestre per 2
+apri parentesi 2 più 3 chiudi parentesi per 4
+apri parentesi cinque più cinque chiudi parentesi per due
+(2 + 3) * 4
+(10 - 3) * (4 + 2)
+apri parentesi 10 meno 3 chiudi parentesi per apri parentesi 4 più 2 chiudi parentesi
+2 più 3 per 5 meno 4
+100 diviso apri parentesi 2 più 3 chiudi parentesi
+5 per apri parentesi 3 più 4 chiudi parentesi
+2 per 2 per 2 per 2 per 2
+5 per apri parentesi 10 diviso due chiudi parentesi
+tre più sette
+venti meno cinque
+trenta per due
+quaranta diviso cinque
+trenta percento di cinquanta
+due elevato alla decima
+radice quadrata di cento
+seno di trenta
+logaritmo naturale di due
+quanto fa settanta diviso cinque
